@@ -5,7 +5,8 @@ A Python-based graphical user interface for plotting mathematical equations and 
 ## Screenshots
 
 ### Main Application Window
-![Main Interface](screenshots/main_interface.png)
+![image](https://github.com/user-attachments/assets/aaf4bc81-b2c9-4e70-a365-1b950530eb26)
+
 *The main interface showing equation input, range controls, and plot area*
 
 
